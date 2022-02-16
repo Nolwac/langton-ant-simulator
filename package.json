@@ -1,0 +1,25 @@
+{
+  "name": "langton-ant-simulator",
+  "version": "1.0.0",
+  "description": "A simulator for Langton's ant",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nolwac/langton-ant-simulator.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "langton",
+    "ant",
+    "simulator",
+    "game",
+    "of",
+    "life",
+    "turing",
+    "machine"
+  ],
+  "author": "Nwafor Livinus Anayo",
+  "license": "ISC"
+}
