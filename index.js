@@ -1,4 +1,4 @@
-import LangtonAntSimulation from './langton-ant-simulator.js';
+import LangtonAntSimulation from './src/langton-ant-simulator.js';
 
 window.onload = function(){
 	let canvas = document.getElementById('canvas');
